@@ -50,17 +50,9 @@ A backend application for monitoring website availability and service health.
 - Advanced Node.js
 - Backend system design
 - Docker and deployment
-- Go
 - Data structures and algorithms
-
-## 📊 GitHub Stats
-
-![Subrata's GitHub stats](https://github-readme-stats.vercel.app/api?username=msdsubrata9&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=msdsubrata9&layout=compact&hide_border=true)
 
 ## 🤝 Connect With Me
 
 - GitHub: [msdsubrata9](https://github.com/msdsubrata9)
-- LinkedIn: Add your LinkedIn profile URL
-- Portfolio: Add your portfolio URL
+- LinkedIn: [subrata--saha](https://www.linkedin.com/in/subrata--saha/)
