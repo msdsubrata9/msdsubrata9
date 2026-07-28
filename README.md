@@ -5,7 +5,7 @@ Frontend Developer specialising in React.js and Next.js, currently expanding int
 ## 👨‍💻 About Me
 
 - 💻 Working with React.js, Next.js, JavaScript and TypeScript
-- 🌱 Learning Node.js, backend development, Docker and Go
+- 🌱 Learning Node.js, backend development and Docker
 - 🧩 Interested in full-stack development and scalable web applications
 - 🛠️ Experienced with Git, GitHub, REST APIs, AWS and CI/CD workflows
 - 📍 Based in Bengaluru, India
