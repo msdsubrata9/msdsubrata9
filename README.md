@@ -1,6 +1,6 @@
 # Hi, I'm Subrata Saha 👋
 
-Frontend Developer specialising in React.js and Next.js, currently expanding into backend development with Node.js, FastAPI and Go.
+Full-Stack Engineer @ Scimplify · React, Next.js, TypeScript, Node.js, AWS · NIT Hamirpur
 
 ## 👨‍💻 About Me
 
